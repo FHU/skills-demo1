@@ -7,4 +7,4 @@
 4. In main.py add this print statement: print('Hello world')
 5. Stage and commit these changes.
 6. Update the remote repo with these changes.
-7. In Github, open a pull request to incorporate the feature-update branch into main. Do not merge the changes yet. Include a descriptive comment for the pul request.
+7. In Github, open a pull request to incorporate the your branch into main. Do not merge the changes yet or delete your branch. Include a descriptive comment for the pull request.
